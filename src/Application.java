@@ -1,5 +1,8 @@
+import com.sun.source.util.SourcePositions;
+
 public class Application {
     public static void main(String args []) {
-        System.out.println("Hello World");
+        System.out.println("Thank you for using the Hello World App");
+        System.out.println("Version 1.0");
     }
 }
